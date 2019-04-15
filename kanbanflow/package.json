@@ -1,0 +1,13 @@
+{
+    "id": "kanbanflow",
+    "name": "KanbanFlow",
+    "version": "1.0.0",
+    "description": "KanbanFlow",
+    "main": "index.js",
+    "author": "Vincent Rémond <vincent.remond@gmail.com>",
+    "license": "MIT",
+    "repository": "https://github.com/vincentremond/franz-recipe-kanbanflow",
+    "config": {
+      "serviceURL": "https://kanbanflow.com/"
+    }
+  }
